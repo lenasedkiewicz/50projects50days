@@ -16,4 +16,6 @@ Boilerplate for all course components.
 
 # Day 2 - Step Functionality
 
+<div style="text-align: center">
 ![alt text](readme-img/day02.png)
+</div>
