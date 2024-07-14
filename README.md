@@ -12,8 +12,8 @@ Boilerplate for all course components.
 
 # Day 1 - Expanding cards (panels)
 
-![Expanding cards component](day01.png)
+![Expanding cards component](.readme-img/day01.png)
 
 # Day 2 - Step Functionality
 
-![alt text](day02.png)
+![alt text](.readme-img/day02.png)
