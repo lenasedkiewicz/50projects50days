@@ -16,6 +16,10 @@ Boilerplate for all course components.
 
 # Day 2 - Step Functionality
 
-<div style="text-align: center">
-<img src="readme-img/day02.png">
+<div>
+  <img style="text-align: center" src="readme-img/day02.png">
 </div>
+
+# Day 3 - Rotating Navigation
+
+![alt text](readme-img/day03.png)
