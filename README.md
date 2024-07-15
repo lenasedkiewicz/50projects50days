@@ -25,3 +25,5 @@ Boilerplate for all course components.
 ![alt text](readme-img/day03.png)
 
 # Day 4 - Hidden Search Widget
+
+![alt text](readme-img/day04.png)
