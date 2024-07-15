@@ -23,3 +23,5 @@ Boilerplate for all course components.
 # Day 3 - Rotating Navigation
 
 ![alt text](readme-img/day03.png)
+
+# Day 4 - Hidden Search Widget
