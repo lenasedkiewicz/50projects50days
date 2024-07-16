@@ -33,3 +33,5 @@ Boilerplate for all course components.
 ![alt text](readme-img/day05.png)
 
 # Day 6 - Scroll Animation
+
+![alt text](readme-img/day06.png)
