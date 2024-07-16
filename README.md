@@ -27,3 +27,5 @@ Boilerplate for all course components.
 # Day 4 - Hidden Search Widget
 
 ![alt text](readme-img/day04.png)
+
+# Day 5 - Blurry Loading
