@@ -29,3 +29,7 @@ Boilerplate for all course components.
 ![alt text](readme-img/day04.png)
 
 # Day 5 - Blurry Loading
+
+![alt text](readme-img/day05.png)
+
+# Day 6 - Scroll Animation
