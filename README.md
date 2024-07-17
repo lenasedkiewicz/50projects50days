@@ -35,3 +35,5 @@ Boilerplate for all course components.
 # Day 6 - Scroll Animation
 
 ![alt text](readme-img/day06.png)
+
+# Day 7 - Split Landing Page
