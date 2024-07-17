@@ -37,3 +37,7 @@ Boilerplate for all course components.
 ![alt text](readme-img/day06.png)
 
 # Day 7 - Split Landing Page
+
+![alt text](readme-img/day07.png)
+
+# Day 8 - Styling the Form
