@@ -12,40 +12,42 @@ Boilerplate for all course components.
 
 # Day 1 - Expanding cards (panels)
 
-![Expanding cards component](readme-img/day01.png)
+![Expanding cards component screenshot](readme-img/day01.png)
 
 # Day 2 - Step Functionality
 
-<div>
-  <img style="text-align: center" src="readme-img/day02.png">
-</div>
+![Step Functionality screenshot](readme-img/day02.png)
 
 # Day 3 - Rotating Navigation
 
-![alt text](readme-img/day03.png)
+![Rotating Navigation cards component screenshot](readme-img/day03.png)
 
 # Day 4 - Hidden Search Widget
 
-![alt text](readme-img/day04.png)
+![Hidden Search Widget screenshot](readme-img/day04.png)
 
 # Day 5 - Blurry Loading
 
-![alt text](readme-img/day05.png)
+![Blurry Loading component screenshot](readme-img/day05.png)
 
 # Day 6 - Scroll Animation
 
-![alt text](readme-img/day06.png)
+![Scroll Animation component screenshot](readme-img/day06.png)
 
 # Day 7 - Split Landing Page
 
-![alt text](readme-img/day07.png)
+![Split Landing Page screenshot](readme-img/day07.png)
 
 # Day 8 - Styling the Form
 
-![alt text](readme-img/day08.png)
+![Styled Form screenshot](readme-img/day08.png)
 
 # Day 9 - Sounds Board
 
-![alt text](readme-img/day09.png)
+![Sounds Board screenshot](readme-img/day09.png)
 
 # Day 10 - Daddy Jokes
+
+![Daddy Jokes app screenshot](readme-img/day10.png)
+
+# Day 11 - Key Codes
