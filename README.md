@@ -45,3 +45,7 @@ Boilerplate for all course components.
 ![alt text](readme-img/day08.png)
 
 # Day 9 - Sounds Board
+
+![alt text](readme-img/day09.png)
+
+# Day 10 - Daddy Jokes
