@@ -4,7 +4,8 @@ sounds.forEach((sound) => {
   const btn = document.createElement("button");
   btn.classList.add("btn");
 
-  btn.innerText = sound;
+  const btnName = sound.charAt(0).toUpperCase() + sound.substring(1);
+  btn.innerText = btnName;
 
   document.getElementById("buttons").appendChild(btn);
 });
