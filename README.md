@@ -51,3 +51,7 @@ Boilerplate for all course components.
 ![Daddy Jokes app screenshot](readme-img/day10.png)
 
 # Day 11 - Key Codes
+
+![Key Codes app screenshot](readme-img/day11.png)
+
+# Day 12 - FAQ Collapse
