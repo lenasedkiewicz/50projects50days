@@ -41,3 +41,5 @@ Boilerplate for all course components.
 ![alt text](readme-img/day07.png)
 
 # Day 8 - Styling the Form
+
+![alt text](readme-img/day08.png)
