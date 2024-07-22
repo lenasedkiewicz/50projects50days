@@ -55,3 +55,7 @@ Boilerplate for all course components.
 ![Key Codes app screenshot](readme-img/day11.png)
 
 # Day 12 - FAQ Collapse
+
+![FAQ Collapse element screenshot](readme-img/day12.png)
+
+# Day 13 - Random Choice Picker
