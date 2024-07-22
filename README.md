@@ -67,3 +67,7 @@ Boilerplate for all course components.
 ![Animated Navigation component screenshot](readme-img/day14.png)
 
 # Day 15 - Incrementing Counter
+
+![Incrementing Counter component screenshot](readme-img/day15.png)
+
+# Day 16 - Drink Water
