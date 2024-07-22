@@ -65,3 +65,5 @@ Boilerplate for all course components.
 # Day 14 - Animated Navigation
 
 ![Animated Navigation component screenshot](readme-img/day14.png)
+
+# Day 15 - Incrementing Counter
