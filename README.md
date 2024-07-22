@@ -63,3 +63,5 @@ Boilerplate for all course components.
 ![Random Choice Picker app screenshot](readme-img/day13.png)
 
 # Day 14 - Animated Navigation
+
+![Animated Navigation component screenshot](readme-img/day14.png)
