@@ -59,3 +59,5 @@ Boilerplate for all course components.
 ![FAQ Collapse element screenshot](readme-img/day12.png)
 
 # Day 13 - Random Choice Picker
+
+![Random Choice Picker app screenshot](readme-img/day13.png)
