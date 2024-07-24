@@ -77,3 +77,5 @@ Boilerplate for all course components.
 # Day 17 - Movie App
 
 ![Movie App screenshot](readme-img/day17.png)
+
+# Day 18 - Background slider
