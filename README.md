@@ -71,3 +71,7 @@ Boilerplate for all course components.
 ![Incrementing Counter component screenshot](readme-img/day15.png)
 
 # Day 16 - Drink Water
+
+![Drink Water app screenshot](readme-img/day16.png)
+
+# Day 17 - Movie App
