@@ -21,6 +21,7 @@ header {
   justify-content: space-between;
   background-color: var(--secondary-color);
 }
+
 .powered {
   color: #fff;
   display: flex;
@@ -30,6 +31,7 @@ header {
   width: 100%;
   max-width: 300px;
 }
+
 .search {
   background-color: transparent;
   border: 2px solid var(--primary-color);
@@ -49,9 +51,11 @@ header {
   background-color: var(--primary-color);
 }
 
-main {
+.main {
   display: flex;
+  flex-direction: row;
   flex-wrap: wrap;
+  justify-content: center;
 }
 
 .movie {

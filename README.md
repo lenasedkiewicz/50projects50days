@@ -75,3 +75,5 @@ Boilerplate for all course components.
 ![Drink Water app screenshot](readme-img/day16.png)
 
 # Day 17 - Movie App
+
+![Movie App screenshot](readme-img/day17.png)
