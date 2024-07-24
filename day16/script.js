@@ -39,18 +39,17 @@ function updateBigCup() {
   if (fullCups === 0) {
     percentage.style.visibility = "hidden";
     percentage.style.height = 0;
-    remained.style.visibility = "visible";
-    remained.style.height = "10px";
   } else {
     percentage.style.visibility = "visible";
     percentage.style.height = `${(fullCups / totalCups) * 330}px`;
     percentage.innerText = `${(fullCups / totalCups) * 100}%`;
-    remained.style.visibility = "visible";
-    remained.style.height = "10px";
   }
 
   if (fullCups === totalCups) {
     remained.style.visibility = "hidden";
     remained.style.height = 0;
+  } else {
+    remained.style.visibility = "visible";
+    liters.innerText = `${2 - (250 * fullCups) / 1000} l`;
   }
 }
