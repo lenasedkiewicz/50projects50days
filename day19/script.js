@@ -29,21 +29,21 @@ function setCurrentTime() {
   hourEl.style.transform = `translate(-50%, -100%) rotate(${scale(
     hoursForClock,
     0,
-    12,
+    11,
     0,
     360
   )}deg)`;
   minuteEl.style.transform = `translate(-50%, -100%) rotate(${scale(
     minutes,
     0,
-    60,
+    59,
     0,
     360
   )}deg)`;
   secondEl.style.transform = `translate(-50%, -100%) rotate(${scale(
     seconds,
     0,
-    60,
+    59,
     0,
     360
   )}deg)`;
