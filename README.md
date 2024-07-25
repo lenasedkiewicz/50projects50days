@@ -79,3 +79,7 @@ Boilerplate for all course components.
 ![Movie App screenshot](readme-img/day17.png)
 
 # Day 18 - Background slider
+
+![Background slider screenshot](readme-img/day18.png)
+
+# Day 19 - Theme clock
