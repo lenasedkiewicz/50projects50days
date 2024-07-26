@@ -87,3 +87,5 @@ Boilerplate for all course components.
 ![Theme clock screenshot](readme-img/day19.png)
 
 # Day 20 - Button Ripple Effect
+
+![Button Ripple component screenshot](readme-img/day20.png)
