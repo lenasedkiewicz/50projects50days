@@ -95,3 +95,7 @@ Boilerplate for all course components.
 ![Drag N Drop component screenshot](readme-img/day21.png)
 
 # Day 22 - Drawing App
+
+![Drawing App component screenshot](readme-img/day22.png)
+
+# Day 23 - Kinetic CSS loader
