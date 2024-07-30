@@ -93,3 +93,5 @@ Boilerplate for all course components.
 # Day 21 - Drag N Drop
 
 ![Drag N Drop component screenshot](readme-img/day21.png)
+
+# Day 22 - Drawing App
