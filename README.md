@@ -99,3 +99,5 @@ Boilerplate for all course components.
 ![Drawing App component screenshot](readme-img/day22.png)
 
 # Day 23 - Kinetic CSS loader
+
+![Kinetic CSS loader screenshot](readme-img/day23.png)
