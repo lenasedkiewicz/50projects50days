@@ -91,3 +91,5 @@ Boilerplate for all course components.
 ![Button Ripple component screenshot](readme-img/day20.png)
 
 # Day 21 - Drag N Drop
+
+![Drag N Drop component screenshot](readme-img/day21.png)
