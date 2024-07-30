@@ -43,12 +43,12 @@ img {
 
 .card-title {
   height: 20px;
-  margin: 0;
+  margin: 10px 0 20px;
 }
 
 .card-excerpt {
   color: #777;
-  margin: 10px 0 20px;
+  margin: 20px 0;
 }
 
 .author {
