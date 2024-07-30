@@ -101,3 +101,5 @@ Boilerplate for all course components.
 # Day 23 - Kinetic CSS loader
 
 ![Kinetic CSS loader screenshot](readme-img/day23.png)
+
+# Day 24 - Content Placeholder
