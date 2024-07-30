@@ -20,12 +20,12 @@ function dragEnd() {
   this.className = "fill";
 }
 
-function dragOver() {
-  console.log("startr");
+function dragOver(e) {
+  e.preventDefault();
 }
 
-function dragEnter() {
-  console.log("startr");
+function dragEnter(e) {
+  e.preventDefault();
 }
 
 function dragLeave() {
@@ -33,5 +33,6 @@ function dragLeave() {
 }
 
 function dragDrop() {
-  console.log("startr");
+  this.className = "empty";
+  this.append(fill);
 }
