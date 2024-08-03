@@ -103,3 +103,7 @@ Boilerplate for all course components.
 ![Kinetic CSS loader screenshot](readme-img/day23.png)
 
 # Day 24 - Content Placeholder
+
+![Content Placeholder screenshot](readme-img/day24.png)
+
+# Day 25 - Sticky Navbar
