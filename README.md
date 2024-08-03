@@ -107,3 +107,5 @@ Boilerplate for all course components.
 ![Content Placeholder screenshot](readme-img/day24.png)
 
 # Day 25 - Sticky Navbar
+
+![Sticky Navbar screenshot](readme-img/day25.png)
