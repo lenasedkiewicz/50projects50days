@@ -109,3 +109,5 @@ Boilerplate for all course components.
 # Day 25 - Sticky Navbar
 
 ![Sticky Navbar screenshot](readme-img/day25.png)
+
+# Day 26 - Double Vertical Slider
