@@ -114,4 +114,8 @@ Boilerplate for all course components.
 
 ![Double Vertical Slider screenshot](readme-img/day26.png)
 
-# Day 27 - Toast Notification
+# Day 27 - Toast Notifications
+
+![Toast Notification screenshot](readme-img/day27.png)
+
+# Day 28 GitHub Profiles
