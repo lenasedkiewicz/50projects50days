@@ -111,3 +111,7 @@ Boilerplate for all course components.
 ![Sticky Navbar screenshot](readme-img/day25.png)
 
 # Day 26 - Double Vertical Slider
+
+![Double Vertical Slider screenshot](readme-img/day26.png)
+
+# Day 27 - Toast Notification
