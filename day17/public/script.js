@@ -3,13 +3,17 @@ document.addEventListener("DOMContentLoaded", () => {
   const SEARCH_API = "/api/search?q=";
   const IMAGE_PATH = "https://image.tmdb.org/t/p/w1280";
 
-  async function getMovies(url) {
-    const res = await fetch(url);
-    const data = await res.json();
-    showMovies(data.results);
-  }
+  const getMovies = async (url) => {
+    try {
+      const res = await fetch(url);
+      const data = await res.json();
+      showMovies(data.results);
+    } catch (error) {
+      console.error("Error fetching movies:", error);
+    }
+  };
 
-  function showMovies(movies) {
+  const showMovies = (movies) => {
     const main = document.getElementById("main");
     main.innerHTML = "";
 
@@ -32,24 +36,20 @@ document.addEventListener("DOMContentLoaded", () => {
 
       main.appendChild(movieEl);
     });
-  }
+  };
 
-  function getClassByRate(vote) {
-    if (vote >= 8) {
-      return "green";
-    } else if (vote >= 5) {
-      return "orange";
-    } else {
-      return "red";
-    }
-  }
+  const getClassByRate = (vote) => {
+    if (vote >= 8) return "green";
+    if (vote >= 5) return "orange";
+    return "red";
+  };
 
   const form = document.getElementById("form");
   const search = document.getElementById("search");
 
   form.addEventListener("submit", (e) => {
     e.preventDefault();
-    const searchTerm = search.value;
+    const searchTerm = search.value.trim();
 
     if (searchTerm && searchTerm !== "") {
       getMovies(SEARCH_API + searchTerm);
@@ -59,6 +59,5 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 
-  // Initial call to get popular movies
   getMovies(API_URL);
 });
