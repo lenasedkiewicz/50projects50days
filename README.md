@@ -118,4 +118,8 @@ Boilerplate for all course components.
 
 ![Toast Notification screenshot](readme-img/day27.png)
 
-# Day 28 GitHub Profiles
+# Day 28 - GitHub Profiles
+
+![GitHub Profiles app screenshot](readme-img/day28.png)
+
+# Day 29 - Double Heart Click
