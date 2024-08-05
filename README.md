@@ -123,3 +123,7 @@ Boilerplate for all course components.
 ![GitHub Profiles app screenshot](readme-img/day28.png)
 
 # Day 29 - Double Heart Click
+
+![Double Heart Click component screenshot](image.png)
+
+# Day 29 - Auto Text Effect
