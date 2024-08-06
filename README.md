@@ -124,6 +124,8 @@ Boilerplate for all course components.
 
 # Day 29 - Double Heart Click
 
-![Double Heart Click component screenshot](image.png)
+![Double Heart Click component screenshot](readme-img/day29.png)
 
 # Day 29 - Auto Text Effect
+
+![Auto Text component screenshot](readme-img/day30.png)
