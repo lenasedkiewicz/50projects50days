@@ -126,6 +126,8 @@ Boilerplate for all course components.
 
 ![Double Heart Click component screenshot](readme-img/day29.png)
 
-# Day 29 - Auto Text Effect
+# Day 30 - Auto Text Effect
 
 ![Auto Text component screenshot](readme-img/day30.png)
+
+# Day 31 - Password Generator
