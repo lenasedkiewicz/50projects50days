@@ -135,3 +135,7 @@ Boilerplate for all course components.
 ![Password Generator component screenshot](readme-img/day31.png)
 
 # Day 32 - Good, Cheap, Fast Checkboxes
+
+![Good, Cheap, Fast Checkboxes component screenshot](readme-img/day32.png)
+
+# Day 33 - Notes App
