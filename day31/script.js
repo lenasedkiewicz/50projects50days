@@ -58,15 +58,13 @@ function generatePassword(upper, lower, number, symbol, length) {
     return "";
   }
 
-  for (let i = 0; i < length; i += typesCount) {
-    typesArr.forEach((type) => {
-      const funcName = Object.keys(type)[0];
-      generatedPassword += randomFunc[funcName]();
-    });
+  for (let i = 0; i < length; i++) {
+    const randomType = typesArr[Math.floor(Math.random() * typesArr.length)];
+    const funcName = Object.keys(randomType)[0];
+    generatedPassword += randomFunc[funcName]();
   }
 
-  const finalPassword = generatedPassword.slice(0, length);
-  return finalPassword;
+  return generatedPassword;
 }
 
 function getRandomLower() {
