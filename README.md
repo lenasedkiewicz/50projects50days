@@ -131,3 +131,7 @@ Boilerplate for all course components.
 ![Auto Text component screenshot](readme-img/day30.png)
 
 # Day 31 - Password Generator
+
+![Password Generator component screenshot](readme-img/day31.png)
+
+# Day 32 - Good, Cheap, Fast Checkboxes
