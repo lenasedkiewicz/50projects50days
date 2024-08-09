@@ -8,8 +8,8 @@ const generateEl = document.getElementById("generate");
 const clipboardEl = document.getElementById("clipboard");
 
 const randomFunc = {
-  lower: getRandomLower,
   upper: getRandomUpper,
+  lower: getRandomLower,
   number: getRandomNumber,
   symbol: getRandomSymbol,
 };
@@ -29,6 +29,29 @@ generateEl.addEventListener("click", () => {
     length
   );
 });
+
+function generatePassword(upper, lower, number, symbol, length) {
+  let generatedPassword = "";
+
+  const typesCount = upper + lower + number + symbol;
+  const typesArr = [{ upper }, { lower }, { number }, { symbol }].filter(
+    (item) => Object.values(item)[0]
+  );
+
+  if (typesCount === 0) {
+    return "";
+  }
+
+  for (let i = 0; i < length; i += typesCount) {
+    typesArr.forEach((type) => {
+      const funcName = Object.keys(type)[0];
+      generatedPassword += randomFunc[funcName]();
+    });
+  }
+
+  const finalPassword = generatedPassword.slice(0, length);
+  return finalPassword;
+}
 
 function getRandomLower() {
   return String.fromCharCode(Math.floor(Math.random() * 26) + 97);
