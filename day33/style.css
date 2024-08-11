@@ -49,7 +49,7 @@ body {
   margin-left: 0.5rem;
 }
 
-.note .textarea {
+.note textarea {
   outline: none;
   font-family: inherit;
   font-size: 1.2rem;
