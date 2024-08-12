@@ -141,3 +141,5 @@ Boilerplate for all course components.
 # Day 33 - Notes App
 
 ![Notes App interface screenshot](readme-img/day33.png)
+
+# Day 34 - Animated Countdown
