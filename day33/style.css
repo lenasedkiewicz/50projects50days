@@ -60,7 +60,9 @@ body {
 }
 
 .note .main {
+  height: 360px;
   padding: 20px;
+  overflow-y: auto;
 }
 
 .hidden {

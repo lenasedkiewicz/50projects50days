@@ -139,3 +139,5 @@ Boilerplate for all course components.
 ![Good, Cheap, Fast Checkboxes component screenshot](readme-img/day32.png)
 
 # Day 33 - Notes App
+
+![Notes App interface screenshot](readme-img/day33.png)
