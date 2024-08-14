@@ -145,3 +145,5 @@ Boilerplate for all course components.
 # Day 34 - Animated Countdown
 
 ![Animated Countdown component screenshot](readme-img/day34.png)
+
+# Day 35 - Image Carousel
