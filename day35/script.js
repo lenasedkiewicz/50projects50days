@@ -21,3 +21,20 @@ function changeImage() {
 
   imgs.style.transform = `translateX(${-index * 500}px)`;
 }
+
+function resetInterval() {
+  clearInterval(interval);
+  interval = setInterval(run, 4000);
+}
+
+rightBtn.addEventListener("click", () => {
+  index++;
+  changeImage();
+  resetInterval();
+});
+
+leftBtn.addEventListener("click", () => {
+  index--;
+  changeImage();
+  resetInterval();
+});
