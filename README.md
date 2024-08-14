@@ -151,3 +151,5 @@ Boilerplate for all course components.
 ![Image Carousel component screenshot](readme-img/day35.png)
 
 # Day 35 - Hoverboard
+
+![Hoverboard app screenshot](readme-img/day36.png)
