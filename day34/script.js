@@ -22,3 +22,19 @@ function runAnimation() {
     });
   });
 }
+
+function resetDOM() {
+  counter.classList.remove("hide");
+  finalMessage.classList.remove("show");
+
+  nums.forEach((num) => {
+    num.classList.value = "";
+  });
+
+  nums[0].classList.add("in");
+}
+
+replay.addEventListener("click", () => {
+  resetDOM();
+  runAnimation;
+});
