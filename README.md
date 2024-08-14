@@ -147,3 +147,7 @@ Boilerplate for all course components.
 ![Animated Countdown component screenshot](readme-img/day34.png)
 
 # Day 35 - Image Carousel
+
+![Image Carousel component screenshot](readme-img/day35.png)
+
+# Day 35 - Hoverboard

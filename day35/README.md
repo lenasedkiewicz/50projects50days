@@ -2,6 +2,8 @@
 
 Image slider in a form of square image carousel with auto slide and option to slide on demand.
 
+https://youtu.be/m6AGOtyc6uk
+
 ## Images source
 
 Dum spiro, spero: <a href="https://pixabay.com/pl/users/andsproject-26081561/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8880144"> ANDRI TEGAR MAHARDIKA</a> from <a href="https://pixabay.com/pl//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8880144"> Pixabay</a>
