@@ -155,3 +155,7 @@ Boilerplate for all course components.
 ![Hoverboard app screenshot](readme-img/day36.png)
 
 # Day 37 - Pokedex
+
+![Pokedex screenshot](readme-img/day37.png)
+
+# Day 38 - Mobile Tab Navigation
