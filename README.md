@@ -150,6 +150,8 @@ Boilerplate for all course components.
 
 ![Image Carousel component screenshot](readme-img/day35.png)
 
-# Day 35 - Hoverboard
+# Day 36 - Hoverboard
 
 ![Hoverboard app screenshot](readme-img/day36.png)
+
+# Day 37 - Pokedex
