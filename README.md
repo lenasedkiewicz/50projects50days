@@ -163,3 +163,7 @@ Boilerplate for all course components.
 ![Mobile Tab Navigation screenshot](day38.png)
 
 # Day 39 - Password Strength Background
+
+![Password Strength Background component screenshot](day39.png)
+
+# Day 40 - Background Boxes
