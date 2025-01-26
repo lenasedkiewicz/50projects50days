@@ -162,4 +162,4 @@ Boilerplate for all course components.
 
 ![Mobile Tab Navigation screenshot](day38.png)
 
-# Day 39 -
+# Day 39 - Password Strength Background
